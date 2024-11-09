@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my GitHub profile! I'm a recently graduated passionate Machine Learning Engineer with a strong background in developing data-driven solutions. I love working on innovative projects that leverage the power of AI and machine learning to solve real-world problems.
+Welcome to my GitHub profile! I'm a recently graduated Machine Learning Engineer with a strong background in developing data-driven solutions. I love working on innovative projects that leverage the power of AI and machine learning to solve real-world problems.
 
 ### About Me
 -  🧠 **Education:** Bachelor of Applied Science in Machine Intelligence from the University of Toronto
